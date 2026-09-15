@@ -1,7 +1,10 @@
+<div align="center">
 👋 Hey, I'm Subhankar
+  
 💻 Developer • Learner • Builder
 
-Turning ideas into code, one commit at a time. ✨
+✨ Turning ideas into code, one commit at a time.
+</div>
 
 🌱 About Me
 
@@ -14,3 +17,7 @@ Turning ideas into code, one commit at a time. ✨
 🚀 Turning ideas into useful projects
 
 ☕ Code • Learn • Build • Repeat
+
+🛠️ Tech Stack
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" /> </p>
